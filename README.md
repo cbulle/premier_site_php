@@ -8,9 +8,5 @@ Ce projet est un site web simple créé pour être une démonstration de base de
 - **Formulaire de contact** : Permet aux utilisateurs de soumettre des informations via un formulaire simple.
 - **Traitement des données** : Le projet inclut des exemples de traitement de données envoyées via formulaire.
 
-## Prérequis
-
-- **PHP 7.4 ou supérieur**
-- **Un serveur web** (par exemple Apache ou Nginx) pour exécuter le site en local ou sur un serveur distant.
-- **Navigateur web** moderne (Chrome, Firefox, etc.).
+ moderne (Chrome, Firefox, etc.).
 
